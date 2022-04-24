@@ -1,4 +1,7 @@
 # mach3-CNC-HMI
+Editor: ![kd-dietz.com](https://kd-dietz.com/pages/eng/machscreen/description.html)
+![Mach3 Version 3.x Macro Programmers Reference Manual](https://www.machsupport.com/wp-content/uploads/2013/02/Mach3_V3.x_Macro_Prog_Ref.pdf)
+
 ## 1920x1080
 ![mach3-CNC-HMI_1920x1080](https://raw.githubusercontent.com/t14lab/mach3-CNC-HMI/main/Docu/Screenshots/mach3-CNC-HMI_1920x1080.jpg?raw=true)
 ## 1357x681
