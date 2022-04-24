@@ -21,3 +21,6 @@ Home - in Machine Coordinates System
 ## Set Active Screen
 ![HotKeys](https://raw.githubusercontent.com/t14lab/mach3-CNC-HMI/main/Docu/Screenshots/SetActiveSrceen_2.jpg?raw=true)
 
+## Installation
+![HotKeys](https://raw.githubusercontent.com/t14lab/mach3-CNC-HMI/main/Docu/Screenshots/Installation_1.jpg?raw=true)
+
