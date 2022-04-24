@@ -1,2 +1,2 @@
 # mach3-CNC-HMI
-![alt text](https://github.com/t14lab/mach3-CNC-HMI/blob/main/Docu/Screenshots/mach3-CNC-HMI_1920x1080.JPG?raw=true)
+![alt text](https://raw.githubusercontent.com/t14lab/mach3-CNC-HMI/main/Docu/Screenshots/mach3-CNC-HMI_1920x1080.jpg?raw=true)
