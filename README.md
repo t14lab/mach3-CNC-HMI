@@ -23,4 +23,5 @@ Home - in Machine Coordinates System
 
 ## Installation
 ![HotKeys](https://raw.githubusercontent.com/t14lab/mach3-CNC-HMI/main/Docu/Screenshots/Installation_1.jpg?raw=true)
+Replace this files.
 
